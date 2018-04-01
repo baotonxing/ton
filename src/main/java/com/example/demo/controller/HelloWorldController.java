@@ -88,4 +88,6 @@ public class HelloWorldController {
     public void close() {
     	oo.close();
     }
+    
+    public void open2() {}
 }
